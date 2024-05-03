@@ -1,5 +1,5 @@
 
-![Image Res](https://github.com/0xrushi/autotyper-mac-statusbar/assets/6279035/6345a0a3-91bc-4555-98f8-7a7c26cc8353)
+![May ](https://github.com/0xrushi/autotyper-mac-statusbar/assets/6279035/07d3b367-7393-4954-9f77-89f7c4e7e2a0)
 
 # AutoTyper
 
