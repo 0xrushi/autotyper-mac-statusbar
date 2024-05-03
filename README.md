@@ -26,12 +26,10 @@ Execute the executable and provide accessibility permissions if prompted, as sho
 
 <img width="507" alt="Screenshot 2024-05-03 at 9 21 18 PM" src="https://github.com/0xrushi/autotyper-mac-statusbar/assets/6279035/274ea70f-5402-4fb4-ae4d-9b33698cfec8">
 
-### Usage
+### Demo
+![Screen Recording](https://github.com/0xrushi/autotyper-mac-statusbar/assets/6279035/81f14bd3-ad41-4ce1-ae38-6f66c1229163)
 
-1. Click on the AutoTyper icon in the Mac status bar to open the application.
-2. Click Launch AutoType window
-3. Enter the text you want to type into the provided input field.
-4. Click "Submit" to initiate the typing process.
+
 
 ### Contributing
 
