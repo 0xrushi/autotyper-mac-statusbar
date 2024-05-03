@@ -1,3 +1,6 @@
+
+<img width="543" alt="logo" src="https://github.com/0xrushi/autotyper-mac-statusbar/assets/6279035/5a8d1865-6592-4a01-949b-416b66968031">
+
 # AutoTyper
 
 AutoTyper is a lightweight utility tool designed to simplify typing tasks, particularly useful for individuals who frequently work with virtual machines (VMs) where copying text is restricted. This application resides in the host os Mac status bar, allowing for quick access and seamless integration into your workflow.
@@ -11,9 +14,17 @@ AutoTyper is a lightweight utility tool designed to simplify typing tasks, parti
 
 To install AutoTyper, follow these simple steps:
 
-1. Download the latest release from the [GitHub repository](https://github.com/your-username/autotyper).
-2. Open the downloaded file and follow the installation instructions.
-3. Once installed, AutoTyper will appear in your Mac's status bar, ready for use.
+```
+git clone https://github.com/0xrushi/autotyper-mac-statusbar.git && cd autotyper-mac-statusbar
+
+python setup.py py2app
+```
+
+This would generate an executable binary in `dists/`
+
+Execute the executable and provide accessibility permissions if prompted, as shown in the screenshot below.
+
+<img width="507" alt="Screenshot 2024-05-03 at 9 21 18 PM" src="https://github.com/0xrushi/autotyper-mac-statusbar/assets/6279035/274ea70f-5402-4fb4-ae4d-9b33698cfec8">
 
 ### Usage
 
