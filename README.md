@@ -35,8 +35,8 @@ Execute the executable and provide accessibility permissions if prompted, as sho
 
 ### Contributing
 
-Contributions to AutoTyper are welcome! If you encounter any issues or have ideas for improvements, please feel free to open an issue or submit a pull request on the [GitHub repository](https://github.com/your-username/autotyper).
+Contributions to AutoTyper are welcome! If you encounter any issues or have ideas for improvements, please feel free to open an issue or submit a pull request on the [GitHub repository](https://github.com/0xrushi/autotyper-mac-statusbar/).
 
 ### License
 
-AutoTyper is released under the [MIT License](https://github.com/your-username/autotyper/blob/main/LICENSE). Feel free to use, modify, and distribute this software according to the terms of the license.
+AutoTyper is released under the [MIT License](https://github.com/0xrushi/autotyper-mac-statusbar/blob/main/LICENSE). Feel free to use, modify, and distribute this software according to the terms of the license.
