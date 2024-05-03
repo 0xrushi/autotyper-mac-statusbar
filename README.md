@@ -1,5 +1,5 @@
 
-<img width="543" alt="logo" src="https://github.com/0xrushi/autotyper-mac-statusbar/assets/6279035/5a8d1865-6592-4a01-949b-416b66968031">
+![Image Res](https://github.com/0xrushi/autotyper-mac-statusbar/assets/6279035/6345a0a3-91bc-4555-98f8-7a7c26cc8353)
 
 # AutoTyper
 
